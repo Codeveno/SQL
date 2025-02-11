@@ -1,0 +1,43 @@
+
+Concepts:**  
+    1. SQL Syntax  
+    2. Data Types  
+    3. Creating and Managing Tables (`CREATE`, `DROP`, `ALTER`)  
+    4. Data Manipulation (`INSERT`, `SELECT`, `UPDATE`, `DELETE`)  
+    5. Constraints (`PRIMARY KEY`, `FOREIGN KEY`, `NOT NULL`, `UNIQUE`, `CHECK`, `DEFAULT`)  
+    6. Filtering Data (`WHERE`, `LIKE`, `BETWEEN`, `IN`, `LIMIT`, `DISTINCT`)  
+    7. Sorting and Ordering (`ORDER BY`)  
+
+Concepts:**  
+    8. Aggregate Functions (`COUNT`, `SUM`, `AVG`, `MIN`, `MAX`)  
+    9. Grouping Data (`GROUP BY`, `HAVING`)  
+    10. Joins (`INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`, `FULL JOIN`, `CROSS JOIN`, `SELF JOIN`)  
+    11. Subqueries (Nested Queries, Correlated Subqueries)  
+    12. Views (`CREATE VIEW`, `DROP VIEW`)  
+    13. Indexing (`CREATE INDEX`, `DROP INDEX`)  
+    14. Transactions (`BEGIN TRANSACTION`, `COMMIT`, `ROLLBACK`)  
+    15. ACID Properties (Atomicity, Consistency, Isolation, Durability) Properties (Atomicity, Consistency, Isolation, Durability)  
+
+Concepts:**  
+    16. Stored Procedures (`CREATE PROCEDURE`, `EXEC`, `CALL`)  
+    17. Functions (`CREATE FUNCTION`, Scalar & Table-Valued Functions)  
+    18. Triggers (`CREATE TRIGGER`, `AFTER`, `BEFORE`)  
+    19. CTEs (Common Table Expressions)  
+    20. Recursive Queries (`WITH RECURSIVE`)  
+    21. JSON & XML Handling (`JSON_QUERY`, `JSON_VALUE`, `FOR XML PATH`)  
+    22. Window Functions (`RANK`, `DENSE_RANK`, `ROW_NUMBER`, `LEAD`, `LAG`, `NTILE`)  
+    23. Dynamic SQL (`EXEC`, `sp_executesql`)  
+    24. Materialized Views  
+    25. Query Performance Optimization (`EXPLAIN`, `ANALYZE`, Execution Plans)  
+    26. Partitioning & Sharding (`PARTITION BY`, Horizontal & Vertical Partitioning)  
+    27. Full-Text Search (`MATCH() AGAINST()`, `tsvector`, `tsquery`)  
+    28. Role-Based Access Control (`GRANT`, `REVOKE`, `CREATE ROLE`)  
+    29. Data Masking & Encryption (`COLUMN ENCRYPTION`, `MASKED WITH FUNCTION`)  
+    30. Event Scheduling (`CREATE EVENT`, `SET GLOBAL event_scheduler`)  
+    31. Multi-Version Concurrency Control (MVCC)  
+    32. Time-Series Data Management (`INTERVAL`, `GENERATE_SERIES()`)  
+    33. Graph Databases (`SQL Graph`, `CREATE NODE`, `CREATE EDGE`)  
+    34. Federated Queries (Querying External Databases)  
+    35. Geospatial Data (`ST_GeomFromText()`, `ST_Intersects()`, PostGIS)  
+    36. SQL and Machine Learning Integration (`ML.PREDICT`, `TensorFlow with SQL`)  
+
